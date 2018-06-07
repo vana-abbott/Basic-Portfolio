@@ -59,8 +59,9 @@ img {
     text-align: left;
     padding-right: 20px; 
     padding-left: 20px; 
-    background-color: white; 
-    padding-bottom: 130px; 
+    background-color: ivory; 
+    padding-bottom: 220px; 
+    text-indent: 30px; 
 }
 .line {
     width:930px;
@@ -70,7 +71,7 @@ img {
 
 }
 footer {
-    background-color: #e0dfdf;
+    background-color: ivory; 
     border-top: solid 5px teal; 
     text-align: center; 
     padding: 15px; 
