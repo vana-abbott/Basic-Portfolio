@@ -21,8 +21,11 @@ header {
     padding-top: 10px;
     padding-left: 10px;
     padding-right: 10px; 
-   
     
+    
+}
+.header-name:hover {
+    font-family: Pacifico, cursive;
 }
 a {
     color: gray;
@@ -62,6 +65,7 @@ img {
     background-color: ivory; 
     padding-bottom: 220px; 
     text-indent: 30px; 
+    line-height: 1.4;
 }
 .line {
     width:930px;
